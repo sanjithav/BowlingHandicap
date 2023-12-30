@@ -1,9 +1,3 @@
-# File: Handicap.py
-# Student: Sanjitha Venkata
-# UT EID: sv28325
-# Course Name: CS303E
-# 
-# Date: 9/2/2023
 # Description of Program: Takes user inputs of name and 3 game scores, calculates average and handicap, outputs handicap report for name given
 
 from math import floor #imports function needed to round numbers
